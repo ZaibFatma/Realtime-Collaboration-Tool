@@ -11,6 +11,7 @@
 This real-time collaboration tool allows multiple users to draw on a shared whiteboard, chat instantly, and see live updates. Built using React on the frontend and Node.js with Socket.IO on the backend, the app focuses on synchronizing canvas drawings, real-time messages, and collaborative user interaction.
 ---
 ✨ Features
+
 ✅ Real-time Whiteboard Syncing
 Drawings are broadcast live to all connected users.
 
