@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f5f5f5;
+}
+
+.App {
+  text-align: center;
+  padding: 10px;
+}
+
+.whiteboard {
+  border: 2px solid #333;
+  background: #fff;
+  cursor: crosshair;
+}
+
+.username-container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.username-container input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+}
