@@ -1,4 +1,5 @@
-# Real-Time Collaboration Tool
+# 💬 Real-Time Collaboration Tool
+
 
 "COMPANY" : CODTECH IT SOLUTIONS
 "NAME" : KASHISH KUMARI
@@ -8,8 +9,13 @@
 "MENTOR" : Neela Santhosh
 ---
 
+
+
 This real-time collaboration tool allows multiple users to draw on a shared whiteboard, chat instantly, and see live updates. Built using React on the frontend and Node.js with Socket.IO on the backend, the app focuses on synchronizing canvas drawings, real-time messages, and collaborative user interaction.
 ---
+
+
+
 ✨ Features
 
 ✅ Real-time Whiteboard Syncing
@@ -36,6 +42,7 @@ Adjusts for desktop screen sizes with scrollable chat and tools sidebar.
 ---
 
 🛠️ Tech Stack
+
 Frontend:
 
 React.js
@@ -55,12 +62,14 @@ Socket.IO (WebSocket communication)
 ---
 
 🚀 How to Run Locally
+
 ✅ Step 1: Clone the Repo
 bash
 Copy
 Edit
 git clone https://github.com/yourusername/realtime-whiteboard-app.git
 cd realtime-whiteboard-app
+
 ✅ Step 2: Install Backend Dependencies
 bash
 Copy
@@ -68,6 +77,7 @@ Edit
 cd server
 npm install
 node index.js
+
 ✅ Step 3: Install Frontend (React Client)
 bash
 Copy
@@ -75,6 +85,7 @@ Edit
 cd ../client
 npm install
 npm start
+
 ✅ Step 4: Open in Browser
 Visit http://localhost:3000
 (React client auto-launches on port 3000)
@@ -82,9 +93,8 @@ Visit http://localhost:3000
 ---
 
 📁 Folder Structure
-bash
-Copy
-Edit
+
+
 realtime-whiteboard-app/
 │
 ├── client/            # React frontend
@@ -97,6 +107,7 @@ realtime-whiteboard-app/
 │   └── index.js       # Main server file
 │
 └── README.md
+
 ---
 
 ## 📸 Screenshots
