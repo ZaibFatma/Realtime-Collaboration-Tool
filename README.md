@@ -6,9 +6,10 @@
 "DOMAIN" : MERN STACK WEB DEVELOPMENT
 "DURATION" : 6 WEEKS
 "MENTOR" : Neela Santhosh
+---
 
 This real-time collaboration tool allows multiple users to draw on a shared whiteboard, chat instantly, and see live updates. Built using React on the frontend and Node.js with Socket.IO on the backend, the app focuses on synchronizing canvas drawings, real-time messages, and collaborative user interaction.
-
+---
 ✨ Features
 ✅ Real-time Whiteboard Syncing
 Drawings are broadcast live to all connected users.
@@ -31,6 +32,8 @@ One-click “🧽 Clear” button that erases the canvas for everyone connected.
 ✅ Responsive Layout
 Adjusts for desktop screen sizes with scrollable chat and tools sidebar.
 
+---
+
 🛠️ Tech Stack
 Frontend:
 
@@ -47,6 +50,8 @@ Node.js
 Express.js
 
 Socket.IO (WebSocket communication)
+
+---
 
 🚀 How to Run Locally
 ✅ Step 1: Clone the Repo
@@ -73,6 +78,8 @@ npm start
 Visit http://localhost:3000
 (React client auto-launches on port 3000)
 
+---
+
 📁 Folder Structure
 bash
 Copy
@@ -89,5 +96,7 @@ realtime-whiteboard-app/
 │   └── index.js       # Main server file
 │
 └── README.md
+---
+
 📸 Screenshots
-Make sure to add screenshots in your repo for UI preview:
+
