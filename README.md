@@ -1,5 +1,4 @@
 # 💬 Real-Time Collaboration Tool
-bash
 ---
 
 "COMPANY" : CODTECH IT SOLUTIONS
