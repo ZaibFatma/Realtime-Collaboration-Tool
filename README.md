@@ -98,5 +98,8 @@ realtime-whiteboard-app/
 └── README.md
 ---
 
-📸 Screenshots
+## 📸 Screenshots
+
+### 🔍 live
+![Home Page](screenshot/output.png)
 
