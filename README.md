@@ -67,7 +67,7 @@ Socket.IO (WebSocket communication)
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/realtime-whiteboard-app.git
+git clone https://github.com/kashish-kumari-05/Realtime-Collaboration-tool.git
 cd realtime-whiteboard-app
 
 ✅ Step 2: Install Backend Dependencies
