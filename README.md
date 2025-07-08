@@ -1,5 +1,5 @@
 # 💬 Real-Time Collaboration Tool
-
+---
 
 "COMPANY" : CODTECH IT SOLUTIONS
 "NAME" : KASHISH KUMARI
@@ -17,6 +17,7 @@ This real-time collaboration tool allows multiple users to draw on a shared whit
 
 
 ✨ Features
+---
 
 ✅ Real-time Whiteboard Syncing
 Drawings are broadcast live to all connected users.
@@ -42,6 +43,7 @@ Adjusts for desktop screen sizes with scrollable chat and tools sidebar.
 ---
 
 🛠️ Tech Stack
+---
 
 Frontend:
 
@@ -62,6 +64,7 @@ Socket.IO (WebSocket communication)
 ---
 
 🚀 How to Run Locally
+---
 
 ✅ Step 1: Clone the Repo
 bash
@@ -93,7 +96,7 @@ Visit http://localhost:3000
 ---
 
 📁 Folder Structure
-
+---
 
 realtime-whiteboard-app/
 │
@@ -111,7 +114,7 @@ realtime-whiteboard-app/
 ---
 
 ## 📸 Screenshots
-
+---
 ### 🔍 live
 ![Home Page](screenshot/output.png)
 
