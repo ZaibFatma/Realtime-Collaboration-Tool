@@ -1,12 +1,13 @@
 # 💬 Real-Time Collaboration Tool
 ---
-
+```bash
 "COMPANY" : CODTECH IT SOLUTIONS
 "NAME" : KASHISH KUMARI
 "INTERN ID" : CT06DF642
 "DOMAIN" : MERN STACK WEB DEVELOPMENT
 "DURATION" : 6 WEEKS
 "MENTOR" : Neela Santhosh
+```
 
 ---
 
