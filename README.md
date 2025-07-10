@@ -98,8 +98,9 @@ Visit http://localhost:3000
 ---
 
 📁 Folder Structure
-```bash
 ---
+```bash
+
 
 realtime-whiteboard-app/
 │
