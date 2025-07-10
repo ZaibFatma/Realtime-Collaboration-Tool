@@ -18,7 +18,7 @@ This real-time collaboration tool allows multiple users to draw on a shared whit
 
 
 
-✨ Features
+## ✨ Features
 ---
 
 ✅ Real-time Whiteboard Syncing
@@ -44,7 +44,7 @@ Adjusts for desktop screen sizes with scrollable chat and tools sidebar.
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 ---
 
 Frontend:
@@ -65,7 +65,7 @@ Socket.IO (WebSocket communication)
 
 ---
 
-🚀 How to Run Locally
+## 🚀 How to Run Locally
 ---
 
 ✅ Step 1: Clone the Repo
