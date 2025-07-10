@@ -6,7 +6,7 @@
 "INTERN ID" : CT06DF642
 "DOMAIN" : MERN STACK WEB DEVELOPMENT
 "DURATION" : 6 WEEKS
-"MENTOR" : Neela Santhosh
+"MENTOR" : Neela Santhosh Kumar
 ```
 
 ---
@@ -98,6 +98,7 @@ Visit http://localhost:3000
 ---
 
 📁 Folder Structure
+```bash
 ---
 
 realtime-whiteboard-app/
@@ -112,7 +113,7 @@ realtime-whiteboard-app/
 │   └── index.js       # Main server file
 │
 └── README.md
-
+```
 ---
 
 ## 📸 Screenshots
