@@ -2,8 +2,8 @@
 ---
 ```bash
 "COMPANY" : CODTECH IT SOLUTIONS
-"NAME" : KASHISH KUMARI
-"INTERN ID" : CT06DF642
+"NAME" : AKANKSHA KUMARI
+"INTERN ID" : CT06DF641
 "DOMAIN" : MERN STACK WEB DEVELOPMENT
 "DURATION" : 6 WEEKS
 "MENTOR" : Neela Santhosh Kumar
@@ -70,7 +70,7 @@ Socket.IO (WebSocket communication)
 bash
 Copy
 Edit
-git clone https://github.com/kashish-kumari-05/Realtime-Collaboration-tool.git
+git clone https://github.com/Akanksha190895/Realtime-Collaboration-Tool
 cd realtime-whiteboard-app
 
 ✅ Step 2: Install Backend Dependencies
